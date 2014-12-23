@@ -1,0 +1,7 @@
+== Third-party code used
+Various lines of the installer logic - Wordpress
+Template system - Smarty
+Table output - DataTables
+Javascript library - jQuery
+Validation - jQuery validation plug-in Copyright (c) 2006 - 2008 JÃ¶rn Zaefferer
+Css - Bootstrap
